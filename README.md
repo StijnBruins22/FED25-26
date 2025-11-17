@@ -38,12 +38,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp: https://www.basic-fit.com/nl-nl/home
 
-  #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  #### Screenshot(s) van de eerste pagina (small screen):  
   <img src="readme-images/prijzen.jpg" width="375px" alt="Basic-Fit prijzenpagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
   <img src="readme-images/groepslessen.jpg" width="375px" alt="Basic-Fit groepslessenpagina">
  
 </details>
