@@ -54,7 +54,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Toegankelijkheid is belangrijk omdat iedereen een website moet kunnen gebruiken, ook mensen met beperkingen zoals slechtziendheid, kleurenblindheid, motorische beperkingen of mensen die afhankelijk zijn van screenreaders. Wanneer een website niet toegankelijk is, kunnen gebruikers belangrijke informatie missen of bepaalde handelingen niet uitvoeren. Denk aan knoppen die niet via het toetsenbord te bereiken zijn, onvoldoende contrast waardoor tekst niet leesbaar is, of afbeeldingen zonder alt-tekst waardoor een screenreader niets kan voorlezen. Een ontoegankelijke website sluit dus bepaalde groepen buiten, zorgt voor frustratie en kan ervoor zorgen dat mensen afhaken of zelfs helemaal geen gebruik kunnen maken van een dienst.
 
 </details>
 
