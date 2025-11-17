@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/prijzen.jpg" width="375px" alt="Basic-Fit prijzenpagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/groepslessen.jpg" width="375px" alt="Basic-Fit groepslessenpagina">
  
 </details>
 
@@ -201,13 +201,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/prijzen.jpg" width="375px" alt="Basic-Fit prijzenpagina">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/groepslessen.jpg" width="375px" alt="Basic-Fit groepslessenpagina">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 
 
   ### Dit was lastig/Is niet gelukt:
