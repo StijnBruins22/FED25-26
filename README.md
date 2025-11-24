@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Stijn Bruins
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  Blauw
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  Responsive
+  hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,13 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp: https://www.basic-fit.com/nl-nl/home
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
-  #### Screenshot(s) van de eerste pagina (small screen):  
-  <img src="readme-images/prijzen.jpg" width="375px" alt="Basic-Fit prijzenpagina">
+  #### Screenshot(s) van de eerste pagina (small screen): 
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  <img src="readme-images/groepslessen.jpg" width="375px" alt="Basic-Fit groepslessenpagina">
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -54,7 +56,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Toegankelijkheid is belangrijk omdat iedereen een website moet kunnen gebruiken, ook mensen met beperkingen zoals slechtziendheid, kleurenblindheid, motorische beperkingen of mensen die afhankelijk zijn van screenreaders. Wanneer een website niet toegankelijk is, kunnen gebruikers belangrijke informatie missen of bepaalde handelingen niet uitvoeren. Denk aan knoppen die niet via het toetsenbord te bereiken zijn, onvoldoende contrast waardoor tekst niet leesbaar is, of afbeeldingen zonder alt-tekst waardoor een screenreader niets kan voorlezen. Een ontoegankelijke website sluit dus bepaalde groepen buiten, zorgt voor frustratie en kan ervoor zorgen dat mensen afhaken of zelfs helemaal geen gebruik kunnen maken van een dienst.
+  Lijst met je bevindingen die in de test naar voren kwamen:
 
 </details>
 
@@ -199,13 +201,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
