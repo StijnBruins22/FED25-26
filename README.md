@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.basic-fit.com/nl-nl/home
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/groepslessen.jpg" width="375px" alt="omschrijving van de pagina">
+  Groepslessen 
+  <img src="readme-images/groepslessen.jpg" width="375px" alt="Groepslessen van Basic-Fit">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/prijzen.jpg" width="375px" alt="omschrijving van de pagina">
+  Prijzen 
+  <img src="readme-images/prijzen.jpg" width="375px" alt="Prijzen van Basic-Fit abonnementen">
  
 </details>
 
@@ -57,6 +57,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+
+  We hebben de twee websites bekeken met de WCAG-checklist, wat in feite een controle is om te zien of de sites goed te gebruiken zijn voor iedereen, dus ook voor mensen met een beperking of mensen die hun mobiel in de zon gebruiken. Over het algemeen bleek de opbouw van de sites redelijk goed, met de juiste titels en structuren die de software voor blinden (screenreaders) kan lezen. De belangrijkste verbeterpunten liggen op de volgende vlakken: Toetsenbordgebruik: We moeten zorgen dat je de websites volledig kunt bedienen met alleen het toetsenbord (de Tab-toets). Nu is vaak niet goed zichtbaar welk element je selecteert. Contrast en Kleur: De kleuren op de site moeten genoeg contrast hebben, zodat de tekst makkelijk leesbaar is voor iedereen, ook bij slecht licht of voor mensen met een visuele beperking. Afbeeldingen: Alle afbeeldingen die informatie bevatten, moeten een beschrijving hebben (alt-tekst), zodat ze 'voorgelezen' kunnen worden. Kortom, de basis is er, maar we moeten de sites nog gebruiksvriendelijker en leesbaarder maken voor alle bezoekers.
 
 </details>
 
