@@ -38,13 +38,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je opdracht:
   https://www.basic-fit.com/nl-nl/home
 
-  #### Screenshot(s) van de eerste pagina (small screen): 
-  Groepslessen 
-  <img src="readme-images/groepslessen.jpg" width="375px" alt="Groepslessen van Basic-Fit">
+  #### Screenshot(s) van de eerste pagina (small screen):  
+  <img src="readme-images/prijzen.jpg" width="375px" alt="Prijzen van Basic-Fit">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Prijzen 
-  <img src="readme-images/prijzen.jpg" width="375px" alt="Prijzen van Basic-Fit abonnementen">
+  <img src="readme-images/groepslessen.jpg" width="375px" alt="Groepslessen van Basic-Fit">
  
 </details>
 
